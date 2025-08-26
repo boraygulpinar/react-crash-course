@@ -3,7 +3,6 @@ import JobListing from "./JobListing";
 
 const JobListings = () => {
   const recentJobs = jobs.slice(0, 3);
-  // 1:07:48 USESTATE'DE KALDIM
   console.log(jobs);
 
   return (
